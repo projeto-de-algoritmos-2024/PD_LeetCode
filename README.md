@@ -27,9 +27,11 @@
 ## Screenshots
 
 Média
-
+Caso 1</br>
 ![minimo1](/assets/Min1.png) </br>
+Caso 2</br>
 ![minimo2](/assets/Min2.png) </br>
+Caso 3</br>
 ![minimo3](/assets/Min3.png) </br>
 
 Difícil
