@@ -4,23 +4,21 @@
 #define min(a, b) ((a) < (b) ? (a) : (b))
 
 int minimumCoins(int* prices, int pricesSize) {
-    int dp[pricesSize];  
-    
-    for (int i = 0; i < pricesSize; i++)
+    int dp[pricesSize + 1];  
+     
+    for (int i = 0; i <= pricesSize; i++) {
         dp[i] = INT_MAX;
+    }
+    
+    dp[0] = 0; 
 
-    dp[0] = prices[0];  
-
-    for (int i = 1; i < pricesSize; i++) {
-        dp[i] = dp[i - 1] + prices[i];
-
-        for (int j = 0; j < i; j++) {
-            if (i + j < pricesSize) {
-                dp[i + j] = min(dp[i + j], (i > 0 ? dp[i - 1] : 0) + prices[i]);
-            }
+    for (int i = 0; i < pricesSize; i++) {
+        for (int j = i + 1; j <= pricesSize && j <= i + 1 + i; j++) {
+            dp[j] = min(dp[j], dp[i] + prices[i]);
         }
     }
 
-    return dp[pricesSize - 1];  
+    return dp[pricesSize];
 }
+
 
