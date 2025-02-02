@@ -15,6 +15,8 @@
 
 | Nome  | Nível   |
 | ---------------------- | ------- |
+| [2944. Minimum Number of Coins for Fruits](https://leetcode.com/problems/minimum-number-of-coins-for-fruits/description/) | Medium |
+| [1866. Number of Ways to Rearrange Sticks With K Sticks Visible](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/description/)| Hard | 
 
 
 ## Vídeo
@@ -24,7 +26,16 @@
 
 ## Screenshots
 
+Média
 
+![minimo1](/assets/Min1.png) </br>
+![minimo2](/assets/Min2.png) </br>
+![minimo3](/assets/Min3.png) </br>
+
+Difícil
+![]()
+![]()
+![]()
 
 ## Instalação
 
