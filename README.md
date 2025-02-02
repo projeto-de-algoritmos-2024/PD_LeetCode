@@ -26,7 +26,7 @@
 
 ## Screenshots
 
-Média
+Média</br>
 Caso 1</br>
 ![minimo1](/assets/Min1.png) </br>
 Caso 2</br>
@@ -34,10 +34,13 @@ Caso 2</br>
 Caso 3</br>
 ![minimo3](/assets/Min3.png) </br>
 
-Difícil
-![]()
-![]()
-![]()
+Difícil</br>
+Caso 1</br>
+![num1](/assets/num1.png) </br>
+Caso 2</br>
+![num2](/assets/num2.png) </br>
+Caso 3</br>
+![num3](/assets/num3.png) </br>
 
 ## Instalação
 
