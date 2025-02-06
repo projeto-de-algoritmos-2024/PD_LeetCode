@@ -17,6 +17,8 @@
 | ---------------------- | ------- |
 | [2944. Minimum Number of Coins for Fruits](https://leetcode.com/problems/minimum-number-of-coins-for-fruits/description/) | Medium |
 | [1866. Number of Ways to Rearrange Sticks With K Sticks Visible](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/description/)| Hard | 
+| [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | Medium |
+| [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) | Hard |
 
 
 ## Vídeo
