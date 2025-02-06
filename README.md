@@ -36,13 +36,13 @@ Caso 2</br>
 Caso 3</br>
 ![minimo3](/assets/Min3.png) </br>
 
-Média</br1>
+Média</br>
 Caso 1</br>
-![bestTime1](/assets/bestTime1.png)</br1>
+![bestTime1](/assets/bestTime1.png)</br>
 Caso 2</br>
-![bestTime3](/assets/bestTime2.png)</br1>
+![bestTime3](/assets/bestTime2.png)</br>
 Caso 3</br>
-![bestTime3](/assets/bestTime3.png)</br1>
+![bestTime3](/assets/bestTime3.png)</br>
 
 Difícil</br>
 Caso 1</br>
