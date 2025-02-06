@@ -28,7 +28,7 @@
 
 ## Screenshots
 
-Média</br>
+Média 2944</br>
 Caso 1</br>
 ![minimo1](/assets/Min1.png) </br>
 Caso 2</br>
@@ -36,7 +36,7 @@ Caso 2</br>
 Caso 3</br>
 ![minimo3](/assets/Min3.png) </br>
 
-Média</br>
+Média 122</br>
 Caso 1</br>
 ![bestTime1](/assets/bestTime1.png)</br>
 Caso 2</br>
