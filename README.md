@@ -22,8 +22,7 @@
 
 
 ## Vídeo
-
-
+[Video apresentando as questões 122 e 10](https://youtu.be/iMQQvsM9rvk)</br>
 
 
 ## Screenshots
