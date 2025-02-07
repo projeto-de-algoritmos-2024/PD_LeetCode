@@ -44,13 +44,15 @@ Caso 2</br>
 Caso 3</br>
 ![bestTime3](/assets/bestTime3.png)</br>
 
-Difícil</br>
+Difícil 1866</br>
 Caso 1</br>
 ![num1](/assets/num1.png) </br>
 Caso 2</br>
 ![num2](/assets/num2.png) </br>
 Caso 3</br>
 ![num3](/assets/num3.png) </br>
+
+Difícil 10</br>
 
 ## Instalação
 
