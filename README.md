@@ -53,6 +53,14 @@ Caso 3</br>
 ![num3](/assets/num3.png) </br>
 
 Difícil 10</br>
+Codigo sem comentário</br>
+![expMatch](/PD_LeetCode/assets/expMatchCod.png)</br>
+Caso 1</br>
+![expMatch](/assets/expMatchCaso1.png) </br>
+Caso 2</br>
+![expMatch](/assets/expMatchCaso2.png) </br>
+Caso 3</br>
+![expMatch](/assets/expMatchCaso3.png) </br>
 
 ## Instalação
 
