@@ -23,6 +23,7 @@
 
 ## Vídeo
 [Video apresentando as questões 122 e 10](https://youtu.be/iMQQvsM9rvk)</br>
+[Video apresentando as questões 2944 e 1866](https://www.youtube.com/watch?v=fQ8ePgoXUrM)</br>
 
 
 ## Screenshots
